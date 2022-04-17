@@ -1,4 +1,8 @@
-### Hi there 👋
+### Bonjour 👋
+
+[![wakatime](https://wakatime.com/badge/user/0b2c1b84-07c8-4d2c-839a-c5c50981b357.svg?style=for-the-badge&logo=appveyor)](https://wakatime.com/@0b2c1b84-07c8-4d2c-839a-c5c50981b357)
+![GitHub followers](https://img.shields.io/github/followers/maxence-lagalle?logo=github&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/Maxence_Lagalle?logo=twitter&style=for-the-badge)
 
 <!--
 **maxence-lagalle/maxence-lagalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
